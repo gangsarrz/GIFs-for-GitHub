@@ -8,5 +8,4 @@
 <img src="https://user-images.githubusercontent.com/57133330/188281501-2b011708-bc37-40aa-8e34-c0b41d5cc089.gif" height="200px">
 <br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-<br>
-<img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
+
